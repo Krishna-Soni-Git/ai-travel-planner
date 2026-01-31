@@ -1,0 +1,19 @@
+[project]
+name = "travel-agent"
+version = "0.1.0"
+description = "Streamlit + LangChain travel planner using Google Places + Air Quality APIs"
+readme = "README.md"
+
+# ✅ limit python so uv doesn't try 3.12 resolution too
+requires-python = ">=3.11,<3.12"
+
+dependencies = [
+  "langchain>=1.2.7,<2.0.0",
+  "langchain-core>=1.2.7,<2.0.0",
+  "langchain-openai>=0.3.0",
+  "langgraph>=0.2.0",
+  "python-dotenv>=1.0.0",
+  "requests>=2.31.0",
+  "streamlit>=1.31.0",
+  "reportlab>=4.0.0",
+]
