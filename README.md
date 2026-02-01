@@ -30,3 +30,9 @@ git clone https://github.com/your-username/travel-agent-ai.git
 cd travel-agent-ai
 pip install -r requirements.txt
 streamlit run app.py
+
+## Author
+
+Krishna Soni
+AI · Analytics · Agentic Systems · Business Analytics
+Halifax, Canada
