@@ -90,7 +90,7 @@ PDF export
 
 🛠 Setup (uv + pyproject.toml)
 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/ai-travel-planner.git
+git clone https://github.com/Krishna-Soni-Git/ai-travel-planner.git
 cd ai-travel-planner
 
 2️⃣ Install dependencies
